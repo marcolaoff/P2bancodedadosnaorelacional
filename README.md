@@ -22,10 +22,3 @@ Este projeto consiste em uma API desenvolvida em Flask para realizar operações
 - PyMongo
 - Postman (ou similar)
 
-## Instalação
-
-1. **Clone o Repositório**
-
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
